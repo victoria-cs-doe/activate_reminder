@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pillz</string>
+    <string name="username">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="createAccount">Creer mon compte</string>
+    <string name="connect">Connexion</string>
+
+    <string name="homeFragment">Accueil</string>
+    <string name="followUpsFragment">Suivi</string>
+    <string name="remindersFragment">Rappels</string>
+
+    <string name="usernamePasswordBlack">
+        Votre adresse email et votre mot de passe doivent etre renseignes
+    </string>
+    <string name="invalidLogin">Email ou mot de passe incorrects</string>
+    <string name="invalidLoginLong">
+        L\'adresse email ou le mot de passe est invalide
+    </string>
+
+
+    <string name="firstName">Prenom</string>
+    <string name="lastName">Nom</string>
+    <string name="email">Email</string>
+    <string name="confirmPassword">Confirmer votre mot de passe</string>
+
+    <string name="submit">Soumettre</string>
+
+
+</resources>

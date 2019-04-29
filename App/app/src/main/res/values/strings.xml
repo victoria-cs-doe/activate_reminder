@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pillz</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="createAccount">Create my account</string>
+    <string name="connect">Connect</string>
+    <string name="homeFragment">Home</string>
+    <string name="followUpsFragment">Follow up</string>
+    <string name="remindersFragment">Reminders</string>
+    <string name="usernamePasswordBlack">Email and password cannot be empty</string>
+    <string name="invalidLogin">Invalid email or password</string>
+    <string name="invalidLoginLong">The provided email address or password were not found</string>
+
+
+    <string name="firstName">First name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confirmPassword">Confirm your password</string>
+
+    <string name="submit">Submit</string>
+
+
+</resources>
